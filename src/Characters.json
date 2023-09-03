@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Harvey Specter",
+    "birthday": "25 de janeiro de 1972",
+    "description": "Harvey Specter is a charismatic and brilliant lawyer at the prestigious law firm Pearson Hardman. He is known for his impeccable fashion sense and a reputation for winning cases at any cost.",
+    "personality": "Confident, Ambitious, Charismatic",
+    "catchphrase": "I don't play the odds, I play the man.",
+    "main": true,
+    "secundary": false,
+    "thumb": "src/assets/harvey.png"
+  },
+  {
+    "name": "Mike Ross",
+    "birthday": "15 de agosto de 1981",
+    "description": "Mike Ross is a young genius who becomes a lawyer without attending law school. He is highly intelligent and has a generous heart but also deals with secrets that could ruin his career.",
+    "personality": "Intelligent, Compassionate, Determined",
+    "catchphrase": "Sometimes, you have to do the wrong things to do the right ones.",
+    "main": true,
+    "secundary": false,
+    "thumb": "src/assets/mike.png"
+  },
+  {
+    "name": "Donna Paulsen",
+    "birthday": "6 de dezembro de 1972",
+    "description": "Donna Paulsen is the talented and loyal executive secretary of Harvey Specter. She is known for her ability to handle any situation, her sharp sense of humor, and her knack for reading people.",
+    "personality": "Sharp, Loyal, Charismatic",
+    "catchphrase": "It takes a lot more than a résumé to impress me.",
+    "main": true,
+    "secundary": false,
+    "thumb": "src/assets/donna.png"
+  },
+  {
+    "name": "Louis Litt",
+    "birthday": "12 de outubro de 1970",
+    "description": "Louis Litt is a competent but often insecure lawyer with social difficulties. He craves recognition and respect from his colleagues, especially Harvey Specter.",
+    "personality": "Insecure, Competent, Determined",
+    "catchphrase": "You can't stop me because I know what I'm doing!",
+    "main": true,
+    "secundary": false,
+    "thumb": "src/assets/louis.png"
+  },
+  {
+    "name": "Jessica Pearson",
+    "birthday": "18 de maio de 1969",
+    "description": "Jessica Pearson is the founding partner and former managing partner of Pearson Hardman. She is a powerful, determined, and highly respected figure in the legal world.",
+    "personality": "Powerful, Determined, Respected",
+    "catchphrase": "Sometimes, to win, you have to sacrifice.",
+    "main": true,
+    "secundary": false,
+    "thumb": "src/assets/jessica.png"
+  },
+  {
+    "name": "Rachel Zane",
+    "birthday": "4 de agosto de 1985",
+    "description": "Rachel Zane is an ambitious paralegal who dreams of becoming a lawyer. She is intelligent, hardworking, and has a complicated relationship with Mike Ross.",
+    "personality": "Ambitious, Intelligent, Hardworking",
+    "catchphrase": "I'll get there, no matter what it takes.",
+    "main": true,
+    "secundary": false,
+    "thumb": "src/assets/rachel.png"
+  },
+  {
+    "name": "Robert Zane",
+    "birthday": "2 de julho de 1959",
+    "description": "Robert Zane is a highly respected lawyer and a senior partner at Zane Specter Litt Wheeler Williams. He is known for his legal expertise and dedication to his work.",
+    "personality": "Respected, Knowledgeable, Dedicated",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/robert.png"
+  },
+  {
+    "name": "Alex Williams",
+    "birthday": "3 de maio de 1975",
+    "description": "Alex Williams is a seasoned lawyer and a name partner at Zane Specter Litt Wheeler Williams. He is known for his sharp legal mind and unwavering commitment to his clients.",
+    "personality": "Sharp, Committed, Strategic",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/alex.png"
+  },
+  {
+    "name": "Samantha Wheeler",
+    "birthday": "15 de novembro de 1980",
+    "description": "Samantha Wheeler is a fearless lawyer with a reputation for winning high-stakes cases. She is a former name partner at Zane Specter Litt Wheeler Williams.",
+    "personality": "Fearless, Competitive, Tenacious",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/samantha.png"
+  },
+  {
+    "name": "Katrina Bennett",
+    "birthday": "19 de março de 1983",
+    "description": "Katrina Bennett is a talented lawyer who started her career at Pearson Hardman and later joined Zane Specter Litt Wheeler Williams. She is known for her determination and loyalty.",
+    "personality": "Determined, Loyal, Ambitious",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/katrina.png"
+  },
+  {
+    "name": "Daniel Hardman",
+    "birthday": "12 de janeiro de 1956",
+    "description": "Daniel Hardman is a former managing partner at Pearson Hardman and later at Pearson Specter. He is a shrewd and ambitious lawyer with a complex history at the firm.",
+    "personality": "Shrewd, Ambitious, Complex",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/daniel.png"
+  },
+  {
+    "name": "Sean Cahill",
+    "birthday": "28 de setembro de 1967",
+    "description": "Sean Cahill is a determined and relentless SEC investigator known for his pursuit of justice. He has crossed paths with the lawyers at Pearson Specter Litt on several occasions.",
+    "personality": "Determined, Relentless, Justice-Seeking",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/sean.png"
+  },
+  {
+    "name": "Scottie",
+    "birthday": "11 de fevereiro",
+    "description": "Scottie is a lawyer who has a romantic history with Harvey Specter. She is known for her legal skills and her complicated relationship with Harvey.",
+    "personality": "Smart, Conflicted, Charismatic",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/scottie.png"
+  },
+  {
+    "name": "Sheila Sazs",
+    "birthday": "9 de abril de 1974",
+    "description": "Sheila Sazs is a quirky but talented lawyer who has a romantic relationship with Louis Litt. She is known for her unique personality and legal expertise.",
+    "personality": "Quirky, Talented, Unique",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/sheila.png"
+  },
+  {
+    "name": "Trevor Evans",
+    "birthday": "22 de agosto de 1982",
+    "description": "Trevor Evans is a childhood friend of Mike Ross and a recurring character in the series. He has a complicated history with Mike and the law.",
+    "personality": "Complicated, Conflicted, Regretful",
+    "main": false,
+    "secundary": true,
+    "thumb": "src/assets/trevor.png"
+  }
+]
